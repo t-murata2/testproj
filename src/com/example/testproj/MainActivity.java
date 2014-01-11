@@ -13,7 +13,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		TextView view = (TextView)findViewById(R.id.textView1);
-		view.setText("これはテストプロジェクトです");
+		view.setText("これはテストプロジェクトです。ForkとPullRequestの練習");
 	}
 
 	@Override
